@@ -10,6 +10,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>Microsoft.IIS.Administration.AccessManagement</AssemblyName>
     <PackageId>Microsoft.IIS.Administration.AccessManagement</PackageId>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>

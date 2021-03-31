@@ -10,6 +10,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>Microsoft.IIS.Administration.WebServer.UrlRewrite</AssemblyName>
     <PackageId>Microsoft.IIS.Administration.WebServer.UrlRewrite</PackageId>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
